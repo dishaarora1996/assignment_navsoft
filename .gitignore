@@ -1,3 +1,6 @@
 media/
 env
 db.sqlite3
+recipe/
+cores/
+__pycache__/
